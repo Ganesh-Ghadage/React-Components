@@ -1,0 +1,12 @@
+#root {
+  height: 100vh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: gray;
+}
+
+.myInp {
+  border-radius: 25%;
+  border: 2px solid black;
+}
